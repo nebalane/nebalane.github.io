@@ -1,0 +1,112 @@
+body{
+    background-color: #16365d;
+    font-family: Arial;
+}
+
+.head1{
+    color: white;
+    text-align: right;
+    padding-left: 94%;
+}
+
+p{
+    color: white;
+    text-align: left;
+}
+
+li{
+    color: white;
+}
+
+.table{
+    color: red;
+    font-style: italic;
+}
+
+.footer{
+    color: rgb(255, 1, 242);;
+    font-weight: bold;
+}
+
+.insert_p{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.hmedia{
+    color: red;
+    text-align: center;
+}
+
+.p1media{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.p2media{
+    color: blue;
+    font-weight: bold;
+}
+
+.p3media{
+    color: hsl(130, 85%, 49%);
+    font-weight: bold;
+}
+
+.hformat{
+    color: white;
+    background-color: black;
+    margin-right: 50%;
+    padding-bottom: 30px;
+    border-top: 1px solid red;
+}
+
+.format1{
+    text-align: right;
+}
+
+.f1_p1{
+    color: blue;
+}
+
+.f1_p2{
+    color: red;
+    font-weight: bold;
+}
+
+.format2{
+    text-align: left;
+}
+
+.f2_p1{
+    background-color: #13e637;
+    color: black;
+    font-weight: bold;
+}
+
+.hcontrol{
+    color: #13e637;
+}
+
+.pcontrol{
+    color: white;
+    font-style: italic;
+    background-color: black;
+    padding: 25px;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+}
+
+.hgallery{
+    color: yellow;
+    font-weight: bold;
+    margin-right: 60%;
+    padding-left: 14%;
+    border-bottom: 1px solid yellow;
+}
+
+.pgallery{
+    color: white;
+    background-color: red;
+}

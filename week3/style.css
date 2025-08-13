@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+
+body{
+    background-image: url('images/chicken.jpg');
+    background-size: 100% 135%;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: red;
+    font-size: 100px;
+    font-style: italic;
+    background-color: black;
+    border: 2px dashed blue;
+    border-left: solid 5px green;
+    padding: 50px;
+    text-align: left;
+    margin: 100px;
+    width: 50%;
+    height: 20px;
+    font-family: "Jacquard 12", system-ui;
+}
+
+p{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    background-color: white;
+}
+
+.par{
+    color: green;
+}
+
+.myspan{
+    color: purple;
+    text-decoration: underline;
+}
