@@ -1,0 +1,59 @@
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+}
+
+.box1{
+    background-color: blue;
+}
+
+.box2{
+    background-color: coral;
+}
+
+.box3{
+    background-color: darkgoldenrod;
+}
+
+.container{
+    display: flex;
+}
+
+.box4{
+    width: 50%;
+    background-color: darkgreen;
+}
+
+.box5{
+    width: 100%;
+    background-color: darkslateblue;
+}
+
+.container2{
+    display: flex;
+}
+
+.box6{
+    height: 50px;
+    background-color: darkslategray;
+}
+
+.box7{
+    height: 50px;
+    background-color: deepskyblue;
+}
+
+.container3-inner{
+    width: 50%;
+}
+
+.box8{
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+}
+
+.container3{
+    display: flex;
+}
