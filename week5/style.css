@@ -1,0 +1,48 @@
+.cards {
+    display: flex;
+}
+.about{
+    width: 190px;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 5px 10px;
+}
+
+.about:hover{
+    background: #bfefff;
+    background: linear-gradient(90deg,rgba(191, 239, 255, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(255, 234, 41, 1) 100%);
+}
+
+.about_title{
+    display:flex ;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+h2{
+    text-indent: 5px;
+    margin: 0;
+}
+
+p{
+    text-align: justify;
+}
+
+.btn{
+    border: none;
+    background: #68c0e3;
+    background: linear-gradient(90deg,rgba(104, 192, 227, 1) 0%, rgba(119, 237, 168, 1) 50%, rgb(255, 0, 0) 100%);
+    color: black;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    color: black;
+    background: #833AB4;
+    background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
