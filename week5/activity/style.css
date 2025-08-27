@@ -5,12 +5,13 @@ body{
 }
 
 .card-wrapper{
-    width: 70%;
+    width: 50%;
     border-radius: 15px;
     box-shadow: 0 0 3px;
     display:flex;
     align-items:center ;
     gap: 15px;
+    justify-content: center;
 }
 
 .wifi{
