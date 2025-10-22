@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    background-color: f7f7eb;
+    font-family: Tahoma;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: #766ecc;
+    display: flex;
+    color: white;
+    align-items:center;
+    justify-content: center;
+}
+
+header a{
+    color: white;
+}
+
+header div{
+    padding: 20px;
+}
+
+footer{
+    padding: 20px;
+    text-align:center;
+    background-color: #fff;
+}
