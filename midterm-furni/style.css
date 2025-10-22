@@ -23,17 +23,6 @@ nav{
     padding: 12px 30px;
 }
 
-.hero-image::after{
-    content: "";
-    position: absolute;
-    width: 255px;
-    height: 217px;
-    background-image: url(images/dots-light.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    right: 50px;
-}
-
 .why-choose-section {
     padding: 7rem 0; 
 }
@@ -44,20 +33,6 @@ nav{
 
 .why-choose-section .img-wrap {
     position: relative; 
-}
-
-.why-choose-section .img-wrap:before {
-    position: absolute;
-    content: "";
-    width: 255px;
-    height: 217px;
-    background-image: url("../images/dots-yellow.svg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    -webkit-transform: translate(-40%, -40%);
-    -ms-transform: translate(-40%, -40%);
-    transform: translate(-40%, -40%);
-    z-index: -1; 
 }
 
 .why-choose-section .img-wrap img {
@@ -72,17 +47,6 @@ nav{
     display: inline-block;
     position: relative;
     margin-bottom: 20px; 
-}
-
-.feature .icon:before {
-    content: "";
-    width: 33px;
-    height: 33px;
-    position: absolute;
-    background: rgba(59, 93, 80, 0.2);
-    border-radius: 50%;
-    right: -8px;
-    bottom: 0; 
 }
     
 .feature h3 {
@@ -104,20 +68,6 @@ nav{
     -ms-grid-columns: (1fr);
     grid-template-columns: repeat(27, 1fr);
     position: relative; 
-}
-
-.we-help-section .imgs-grid:before {
-      position: absolute;
-      content: "";
-      width: 255px;
-      height: 217px;
-      background-image: url("../images/dots-green.svg");
-      background-size: contain;
-      background-repeat: no-repeat;
-      -webkit-transform: translate(-40%, -40%);
-      -ms-transform: translate(-40%, -40%);
-      transform: translate(-40%, -40%);
-      z-index: -1; 
 }
 
 .we-help-section .imgs-grid .grid {
@@ -174,17 +124,6 @@ nav{
     position: relative;
     padding-left: 20px; 
     font-size: 14px;
-}
-
-.custom-list li:before {
-    content: "";
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    border: 2px solid #3b5d50;
-    position: absolute;
-    left: 0;
-    top: 8px; 
 }
 
 .best-products img{
@@ -348,6 +287,7 @@ nav{
 .untree_co-section {
   padding: 7rem 0; 
 }
+
 
 
 
